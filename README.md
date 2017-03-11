@@ -38,9 +38,9 @@ Email: ronggang.zhou at gmail.com
 
 ### 下载列表
  - 可通过以下地址获取最新版的程序：
- - https://github.com/ronggang/transmission-web-control/raw/master/release/transmission-control-full.tar.gz
+ - https://github.com/uesugitatsuya/transmission-web/raw/master/release/transmission-control-full.tar.gz
  - 或到下载安装脚本，此脚本只需要下载一次，以后只需要执行即可
- - https://github.com/ronggang/transmission-web-control/raw/master/release/tr-control-easy-install.sh
+ - https://github.com/uesugitatsuya/transmission-web/raw/master/release/tr-control-easy-install.sh
 
 ### 安装方法
  - https://code.google.com/p/transmission-control/wiki/Install
