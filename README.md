@@ -1,13 +1,3 @@
-### 求助 ###
-因个人原因，已无更多精力维护该项目，导致项目基本处于停止状态，现希望有人帮忙继续更新该项目，如有意向者请和我联系，谢谢！
-
-### Please help this project ###
-For personal reasons, has no more effort to maintain the project, leading to the basic state of the project is stopped, I hope someone help to continue to update the project, if interested, please contact me, thank you!
-
-Email: ronggang.zhou at gmail.com
-
-栽培者 2016.10.11
-
 -----
 关于
 -----
@@ -43,7 +33,9 @@ Email: ronggang.zhou at gmail.com
  - https://github.com/uesugitatsuya/transmission-web/raw/master/release/tr-control-easy-install.sh
 
 ### 安装方法
- - https://code.google.com/p/transmission-control/wiki/Install
+wget https://github.com/uesugitatsuya/transmission-web/raw/master/release/tr-control-easy-install.sh && sh tr-control-easy-install.sh
+
+- https://code.google.com/p/transmission-control/wiki/Install
 
 ### 关于多语言(Multi-language)
 系统使用多语言的方式构建，所以可以支持其他任何语言；但，由于本人水平有限，只会中文，所以需要懂其他语言的您的帮助，如果您已经翻译好了一个语言版本，请同时发给我一份，我会打包在一起，分享给更多的用户，谢谢。
