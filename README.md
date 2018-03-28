@@ -28,12 +28,12 @@
 
 ### 下载列表
  - 可通过以下地址获取最新版的程序：
- - https://github.com/uesugitatsuya/transmission-web/raw/master/release/transmission-control-full.tar.gz
+ - https://github.com/uesugitatsuya/transmission-webOLD/raw/master/release/transmission-control-full.tar.gz
  - 或到下载安装脚本，此脚本只需要下载一次，以后只需要执行即可
- - https://github.com/uesugitatsuya/transmission-web/raw/master/release/tr-control-easy-install.sh
+ - https://github.com/uesugitatsuya/transmission-webOLD/raw/master/release/tr-control-easy-install.sh
 
 ### 安装方法
-wget https://github.com/uesugitatsuya/transmission-web/raw/master/release/tr-control-easy-install.sh && sh tr-control-easy-install.sh
+wget https://github.com/uesugitatsuya/transmission-webOLD/raw/master/release/tr-control-easy-install.sh && sh tr-control-easy-install.sh
 
 - https://code.google.com/p/transmission-control/wiki/Install
 
