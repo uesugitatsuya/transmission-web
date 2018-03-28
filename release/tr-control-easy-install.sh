@@ -5,7 +5,7 @@ orgindex="index.original.html"
 index="index.html"
 tmpFolder="/tmp/tr-web-control/"
 packname="transmission-control-full.tar.gz"
-host="https://github.com/uesugitatsuya/transmission-web/raw/master/release/"
+host="https://github.com/uesugitatsuya/transmission-webOLD/raw/master/release/"
 donwloadurl="$host$packname"
 if [ ! -d "$tmpFolder" ]; then
 	cd /tmp
